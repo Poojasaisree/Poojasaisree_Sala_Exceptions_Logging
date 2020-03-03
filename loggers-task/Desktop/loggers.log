@@ -1,0 +1,45 @@
+2020-03-03 16:16:49 INFO  TakeRequirements:21 - Enter the total area of the house:
+2020-03-03 16:16:54 INFO  TakeRequirements:23 - Choose the material standard: 1.Standard Materials 2.Above standard materials 3.High standard material 4.High standard and fully automated house 5.Exit 
+2020-03-03 16:16:57 INFO  EstimateCost:16 - Estimated cost:1440000.0INR
+2020-03-03 16:16:57 INFO  TakeRequirements:21 - Enter the total area of the house:
+2020-03-03 16:17:00 INFO  TakeRequirements:23 - Choose the material standard: 1.Standard Materials 2.Above standard materials 3.High standard material 4.High standard and fully automated house 5.Exit 
+2020-03-03 16:17:01 INFO  EstimateCost:16 - Estimated cost:1.8282E7INR
+2020-03-03 16:17:01 INFO  TakeRequirements:21 - Enter the total area of the house:
+2020-03-03 16:17:03 INFO  TakeRequirements:23 - Choose the material standard: 1.Standard Materials 2.Above standard materials 3.High standard material 4.High standard and fully automated house 5.Exit 
+2020-03-03 16:18:35 INFO  Input:28 - Enter the attributes:
+2020-03-03 16:18:39 INFO  Input:32 - Enter your choice: 1.Calculate simple interest 2.Calculate compound interest 3.Exit
+2020-03-03 16:18:42 INFO  SimpleInterest:16 - 300.0
+2020-03-03 16:18:42 INFO  Input:28 - Enter the attributes:
+2020-03-03 16:18:50 INFO  Input:32 - Enter your choice: 1.Calculate simple interest 2.Calculate compound interest 3.Exit
+2020-03-03 16:18:53 INFO  EstimateCost:21 - 3901.698100923073
+2020-03-03 16:18:53 INFO  Input:28 - Enter the attributes:
+2020-03-03 17:40:15 INFO  TakeRequirements:21 - Enter the total area of the house:
+2020-03-03 17:40:24 INFO  TakeRequirements:23 - Choose the material standard: 1.Standard Materials 2.Above standard materials 3.High standard material 4.High standard and fully automated house 5.Exit 
+2020-03-03 17:40:31 INFO  EstimateCost:16 - Estimated cost:1440000.0INR
+2020-03-03 17:40:31 INFO  TakeRequirements:21 - Enter the total area of the house:
+2020-03-03 17:41:23 INFO  TakeRequirements:23 - Choose the material standard: 1.Standard Materials 2.Above standard materials 3.High standard material 4.High standard and fully automated house 5.Exit 
+2020-03-03 17:41:28 INFO  EstimateCost:16 - Estimated cost:1972500.0INR
+2020-03-03 17:41:28 INFO  TakeRequirements:21 - Enter the total area of the house:
+2020-03-03 17:41:34 INFO  TakeRequirements:23 - Choose the material standard: 1.Standard Materials 2.Above standard materials 3.High standard material 4.High standard and fully automated house 5.Exit 
+2020-03-03 22:14:03 INFO  TakeRequirements:21 - Enter the total area of the house:
+2020-03-03 22:14:12 INFO  TakeRequirements:23 - Choose the material standard: 1.Standard Materials 2.Above standard materials 3.High standard material 4.High standard and fully automated house 5.Exit 
+2020-03-03 22:14:16 INFO  EstimateCost:16 - Estimated cost:252000.0INR
+2020-03-03 22:14:16 INFO  TakeRequirements:21 - Enter the total area of the house:
+2020-03-03 22:14:27 INFO  TakeRequirements:23 - Choose the material standard: 1.Standard Materials 2.Above standard materials 3.High standard material 4.High standard and fully automated house 5.Exit 
+2020-03-03 22:14:31 INFO  EstimateCost:16 - Estimated cost:862500.0INR
+2020-03-03 22:14:31 INFO  TakeRequirements:21 - Enter the total area of the house:
+2020-03-03 22:14:37 INFO  TakeRequirements:23 - Choose the material standard: 1.Standard Materials 2.Above standard materials 3.High standard material 4.High standard and fully automated house 5.Exit 
+2020-03-03 22:14:39 INFO  EstimateCost:16 - Estimated cost:351000.0INR
+2020-03-03 22:14:39 INFO  TakeRequirements:21 - Enter the total area of the house:
+2020-03-03 22:14:45 INFO  TakeRequirements:23 - Choose the material standard: 1.Standard Materials 2.Above standard materials 3.High standard material 4.High standard and fully automated house 5.Exit 
+2020-03-03 22:15:52 INFO  Input:28 - Enter the attributes:
+2020-03-03 22:15:57 INFO  Input:32 - Enter your choice: 1.Calculate simple interest 2.Calculate compound interest 3.Exit
+2020-03-03 22:16:01 INFO  SimpleInterest:16 - 703.5
+2020-03-03 22:16:01 INFO  Input:28 - Enter the attributes:
+2020-03-03 22:16:12 INFO  Input:32 - Enter your choice: 1.Calculate simple interest 2.Calculate compound interest 3.Exit
+2020-03-03 22:16:16 INFO  EstimateCost:21 - 3400.9527547795733
+2020-03-03 22:16:16 INFO  Input:28 - Enter the attributes:
+2020-03-03 22:16:23 INFO  Input:32 - Enter your choice: 1.Calculate simple interest 2.Calculate compound interest 3.Exit
+2020-03-03 22:16:28 INFO  SimpleInterest:16 - 967.68
+2020-03-03 22:16:28 INFO  Input:28 - Enter the attributes:
+2020-03-03 22:16:34 INFO  Input:32 - Enter your choice: 1.Calculate simple interest 2.Calculate compound interest 3.Exit
